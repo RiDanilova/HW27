@@ -12,4 +12,3 @@ class Ad(models.Model):
 
 class Category(models.Model):
     name=models.CharField(max_length=60)
-
